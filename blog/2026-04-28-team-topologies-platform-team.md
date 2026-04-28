@@ -144,7 +144,3 @@ Viewing platform engineering through team topologies provides a structured way t
 - [Team Topologies Book](https://teamtopologies.com/) by Matthew Skelton and Manuel Pais
 - [Platform Teams Guide](https://mia-platform.eu/blog/platform-teams/) — Mia-Platform
 - [Shift Down to the Platform](https://mia-platform.eu/blog/shift-down-to-the-platform/) — Cognitive load explained
-
----
-
-*This article is based on insights from [Team Topologies to Structure a Platform Team](https://mia-platform.eu/blog/team-topologies-to-structure-a-platform-team/) by Mia-Platform.*
